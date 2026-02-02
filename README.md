@@ -1,4 +1,4 @@
-# Proyecto-IES-Luis-Bueno-Crespo
+# Megafonia-IP
 Ejemplo proyecto para la creación de proyectos en el instituto IES Luis Bueno Crespo
 Este proyecto consiste en el diseño e implementación de un sistema de megafonía y avisos basado en tecnología VoIP (Voz sobre IP) para centros educativos. La solución integra un router Speedytel IPPBX 220 como centralita principal (PBX) y nodos receptores basados en Raspberry Pi en cada aula.
 #Ingles
